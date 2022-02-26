@@ -19,4 +19,4 @@ I am currently learning Kotlin programming.
 ### Reach me on
 - <a href="https://www.linkedin.com/in/fahrudin-az-zuhd-38625b1b0/">LinkedIn</a>
 - nafachru@gmail.com
-- <a href="https://twitter/AzFahru">Twitter</a>
+- <a href="https://twitter.com/AzFahru?t=dgccb8g0LkQWO1pTGWPbWQ&s=09">Twitter</a>
