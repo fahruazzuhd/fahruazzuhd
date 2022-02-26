@@ -1,8 +1,8 @@
 # Hi everyone! 
 
-My name is **Fahrudin Nasikh Az-zuhdu**.\
+My name is **Fahrudin Nasikh Az-zuhdu**.
 
-I am a **Web and Android Developer**.\
+I am a **Web and Android Developer**.
 
 I am currently learning Kotlin
 
