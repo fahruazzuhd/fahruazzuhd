@@ -1,9 +1,8 @@
 # Hello!👋
 
 My name is **Fahrudin Nasikh Az-zuhdu**.  
-I am a **Web and Android Developer**.   
-I can also develop 2D games with unity.  
-I am currently learning Kotlin programming.  
+I am a **Mobile Developer**.
+Experienced in Flutter dan Kotlin
   
 **"Never stop learning"** is my life motto.
 
