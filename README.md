@@ -1,32 +1,93 @@
-# Hello!👋
+<div align="center">
 
-My name is **Fahrudin Nasikh Az-zuhdu**.  
-I am a **Mobile Developer**.
-Experienced in Flutter dan Kotlin
-  
-**"Never stop learning"** is my life motto.
+```
+███████╗ █████╗ ██╗  ██╗██████╗ ██╗   ██╗
+██╔════╝██╔══██╗██║  ██║██╔══██╗██║   ██║
+█████╗  ███████║███████║██████╔╝██║   ██║
+██╔══╝  ██╔══██║██╔══██║██╔══██╗██║   ██║
+██║     ██║  ██║██║  ██║██║  ██║╚██████╔╝
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝
+```
 
-<h2 align="left">Statistics</h2>
-<p align=left>
-  <div align=left>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=fahruazzuhd&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=fahruazzuhd&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br>
-  <div align=left>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahruazzuhd&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=fahruazzuhd&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+# Fahrudin Nasikh Az-zuhdu
+### 📱 Mobile Developer · Flutter & Kotlin
 
-### Reach me on
-- <a href="https://www.linkedin.com/in/fahrudin-nasikh-az-zuhdu-38625b1b0/">LinkedIn</a>
-- nafachru@gmail.com
-- <a href="https://twitter.com/AzFahru?t=dgccb8g0LkQWO1pTGWPbWQ&s=09">Twitter</a>
+*"Never stop learning"*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahrudinazzuhd/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nafachru@gmail.com)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Hey there! I'm **Fahru** — a mobile developer who loves crafting smooth, high-performance apps.
+I specialize in **Flutter** for cross-platform magic and **Kotlin** for native Android experiences.
+
+```kotlin
+val fahru = Developer(
+    name     = "Fahrudin Nasikh Az-zuhdu",
+    role     = "Mobile Developer",
+    stacks   = listOf("Flutter", "Dart", "Kotlin", "Android"),
+    motto    = "Never stop learning"
+)
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=fahruazzuhd&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=fahruazzuhd&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" />
+</div>
+
+<div align="center">
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahruazzuhd&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8&layout=compact" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahruazzuhd&theme=tokyo-night&hide_border=true&radius=10" width="100%" />
+</div>
+
+---
+
+## 🚀 What I Build
+
+| Type | Examples |
+|---|---|
+| 📱 Cross-platform | Apps for Android & iOS with Flutter |
+| 🤖 Native Android | Kotlin apps with Jetpack components |
+| 🔗 Integrations | REST API, Firebase, 3rd-party SDKs |
+| 🎨 UI/UX | Pixel-perfect implementation from Figma |
+
+---
+
+<div align="center">
+
+### 📬 Let's connect and build something great!
+
+*Open for freelance projects & collaborations*
+
+![Profile Views](https://komarev.com/ghpvc/?username=fahruazzuhd&color=7F52FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
